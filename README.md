@@ -12,7 +12,7 @@
 
 ## 📸 Store Preview
 
-![Homepage](screenshots/homepage.png)
+![Homepage](Homepage.png)
 
 ---
 
